@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yztracker&show_icons=true&locale=en&layout=compact" alt="yztracker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yztracker&count_private=true&show_icons=true&locale=en" alt="yztracker" /></p>
+![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yztracker&count_private=true)
