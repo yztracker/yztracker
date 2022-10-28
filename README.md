@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
-<h3 align="center">A passionate frontend developer from Taiwan</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 - 💬 Ask me about **react**
 
