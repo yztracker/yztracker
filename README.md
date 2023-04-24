@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A passionate full-stack developer | AI researcher </h3>
 
-- 💬 Ask me about **react**
+build everything cool 
+- 💬 Ask me about **react** | **llm** | **AIGC** | **blockchain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
